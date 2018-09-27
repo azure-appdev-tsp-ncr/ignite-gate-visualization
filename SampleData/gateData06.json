@@ -1,7 +1,7 @@
 {
     "Airport Code": "SFO",
     "Terminal ID": "1",
-    "Gate ID": "88,
+    "Gate ID": "88",
     "Location": {
         "type": "Point",
         "coordinates": [
