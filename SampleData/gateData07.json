@@ -1,0 +1,17 @@
+{
+    "Airport Code": "SFO",
+    "Terminal ID": "1",
+    "Gate ID": "44",
+    "Location": {
+        "type": "Point",
+        "coordinates": [
+          37.615223,
+          -122.389977
+        ]
+      },
+      "Gate Reader Total Response Time": 2.36,
+      "Shares API Response Time": 1.23,
+      "PCDR DB Response Time": 0.51,
+      "Data Xmit Response Time": 0.62,
+      "Last Sample": "2018-09-27T09:57:56.321-06:00"
+}
