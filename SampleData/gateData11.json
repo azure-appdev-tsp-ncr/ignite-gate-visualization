@@ -1,0 +1,17 @@
+{
+  "Airport Code": "MCO",
+  "Terminal ID": "B",
+  "Gate ID": "30",
+  "Location": {
+      "type": "Point",
+      "coordinates": [
+        28.4270207,
+        -81.3034451
+      ]
+    },
+    "Gate Reader Total Response Time": 1.60,
+    "Shares API Response Time": 0.44,
+    "PCDR DB Response Time": 1.00,
+    "Data Xmit Response Time": 0.16,
+    "Last Sample": "2018-09-27T14:26:56.000-06:00"
+}
