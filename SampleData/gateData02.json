@@ -1,0 +1,17 @@
+{
+    "Airport Code": "ORD",
+    "Terminal ID": "1",
+    "Gate ID": "B14",
+    "Location": {
+        "type": "Point",
+        "coordinates": [
+          41.97859955,
+          -87.90480042
+        ]
+      },
+      "Gate Reader Total Response Time": 1.36,
+      "Shares API Response Time": 0.76,
+      "PCDR DB Response Time": 0.30,
+      "Data Xmit Response Time": 0.30,
+      "Last Sample": "2018-09-27T09:28:56.321-06:00"
+}
